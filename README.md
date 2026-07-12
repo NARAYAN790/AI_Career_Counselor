@@ -106,21 +106,41 @@ AI\_Career\_Counselor/
 
 
 
-\## 📸 Screenshots
+\## 📸 Application Screenshots
 
 
 
-Screenshots of the application will be added here:
+\### 🏠 Home Page
 
 
 
-\* Home Page
+!\[Home Page](assets/screenshots/home.png)
 
-\* AI Chatbot Interface
 
-\* Career Recommendation Response
 
-\* System Architecture
+\### 🤖 AI Chatbot Interface
+
+
+
+!\[AI Chatbot](assets/screenshots/chatbot.png)
+
+
+
+\### 🎯 Career Recommendation Response
+
+
+
+!\[Career Response](assets/screenshots/response.png)
+
+
+
+\### 🏗️ System Architecture
+
+
+
+!\[Architecture](assets/screenshots/architecture.png)
+
+
 
 
 
